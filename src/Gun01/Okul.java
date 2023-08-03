@@ -1,5 +1,8 @@
 package Gun01;
 
 public class Okul {
-    Ogrenci ogr1 = new Ogrenci();
+    public static void main(String[] args) {
+        Ogrenci ogr1 = new Ogrenci();
+        ogr1.ad = "ismet";
+    }
 }
