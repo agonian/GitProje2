@@ -5,6 +5,6 @@ public class Okul {
         Ogrenci ogr1 = new Ogrenci();
         ogr1.ad = "ismet";
         ogr1.soyad = "Temur";
-        Ogrenci ogr2 = new Ogrenci();
+
     }
 }
